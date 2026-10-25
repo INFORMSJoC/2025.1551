@@ -4,18 +4,19 @@
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE). Separate notices in the source files and external dependency licenses continue to apply.
 
-The code and data accompany **Balanced spanning forests of graphs: Hardness and solving methods**, by **Morteza Davari, Phablo F. S. Moura, and Hande Yaman**. The algorithms partition an edge-weighted graph into a prescribed number of vertex-disjoint trees spanning all vertices, minimizing the weight of the heaviest tree.
+The code and data accompany the paper [Balanced spanning forests of graphs: Hardness and solving methods](https://doi.org/10.1287/ijoc.2025.1551), by Morteza Davari, Phablo F. S. Moura, and Hande Yaman.
 
-The authors' public repository is [Edge-Weighted-Balanced-Connected-Partitions](https://github.com/md6712/Edge-Weighted-Balanced-Connected-Partitions). An earlier paper version is available as [arXiv:2504.02421](https://arxiv.org/abs/2504.02421).
+Important: This code is being developed on an on-going basis at https://github.com/md6712/Edge-Weighted-Balanced-Connected-Partitions. Please go there if you would like to get a more recent version or would like support.
 
 ## Cite
 
-Please cite both the paper and this repository:
+To cite the contents of this repository, please cite both the paper and this epo, using their respective DOIs.
 
-- Paper: [10.1287/ijoc.2025.1551](https://doi.org/10.1287/ijoc.2025.1551)
-- Code: [10.1287/ijoc.2025.1551.cd](https://doi.org/10.1287/ijoc.2025.1551.cd)
+https://doi.org/10.1287/ijoc.2025.1551
 
-**Code citation**
+https://doi.org/10.1287/ijoc.2025.1551.cd
+
+Below is the BibTex for citing this snapshot of the repository.
 
 ```bibtex
 @misc{davari2026balancedspanningforests,
@@ -26,18 +27,6 @@ Please cite both the paper and this repository:
   doi =       {10.1287/ijoc.2025.1551.cd},
   url =       {https://github.com/INFORMSJoC/2025.1551},
   note =      {Available for download at https://github.com/INFORMSJoC/2025.1551}
-}
-```
-
-**Paper citation** — provisional; add the publication year, volume, issue, and pages when confirmed by the publisher.
-
-```bibtex
-@article{davariBalancedSpanningForestsPaper,
-  author =  {Davari, Morteza and Moura, Phablo F. S. and Yaman, Hande},
-  title =   {{Balanced spanning forests of graphs: Hardness and solving methods}},
-  journal = {INFORMS Journal on Computing},
-  doi =     {10.1287/ijoc.2025.1551},
-  url =     {https://doi.org/10.1287/ijoc.2025.1551}
 }
 ```
 
