@@ -10,7 +10,7 @@ Important: This code is being developed on an on-going basis at https://github.c
 
 ## Cite
 
-To cite the contents of this repository, please cite both the paper and this epo, using their respective DOIs.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
 https://doi.org/10.1287/ijoc.2025.1551
 
